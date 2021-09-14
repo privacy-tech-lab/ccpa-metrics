@@ -37,12 +37,14 @@ Install the dependencies of the GPC CCPA Metrics Notebook.
 pip3 install numpy
 pip3 install pandas
 pip3 install mathplotlib
+pip3 install itables # https://github.com/mwouts/itables
 ```
 
 Start your local GPC CCPA Metrics Notebook from within the directory to which you cloned the repo.
 
 ```bash
 jupyter notebook
+jupyter notebook --no-browser # If you do not want your browser to start the Notebook automatically
 ```
 
 This command will start up Jupyter and your default browser should display the Notebook at <http://localhost:8888/tree>.
