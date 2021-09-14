@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://nbviewer.jupyter.org/github/privacy-tech-lab/gpc-ccpa-metrics/blob/main/gpc-ccpa-metrics.ipynb"><img alt="nbviewer" src="https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg"></a>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/privacy-tech-lab/gpc-ccpa-metrics">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/privacy-tech-lab/gpc-ccpa-metrics">
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/privacy-tech-lab/gpc-ccpa-metrics">
-  <img alt="GitHub" src="https://img.shields.io/github/license/privacy-tech-lab/gpc-ccpa-metrics">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/privacy-tech-lab/gpc-ccpa-metrics?style=social">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/privacy-tech-lab/gpc-ccpa-metrics?style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/privacy-tech-lab/gpc-ccpa-metrics?style=social">
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/privacy-tech-lab/gpc-ccpa-metrics"></a>
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/privacy-tech-lab/gpc-ccpa-metrics"></a>
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/issues?q=is%3Aissue+is%3Aclosed+"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/privacy-tech-lab/gpc-ccpa-metrics"></a>
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/privacy-tech-lab/gpc-ccpa-metrics"></a>
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/privacy-tech-lab/gpc-ccpa-metrics?style=social"></a>
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/privacy-tech-lab/gpc-ccpa-metrics?style=social"></a>
+  <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/privacy-tech-lab/gpc-ccpa-metrics?style=social"></a>
 </p>
 
 # GPC CCPA Metrics and Visualizations
