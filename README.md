@@ -19,4 +19,4 @@ This repo contains CCPA metrics and visualizations. All data is contained in the
 
 ## Contribution
 
-Contribute by opening an issue or pull request.
+Contribute by opening an issue or a pull request.

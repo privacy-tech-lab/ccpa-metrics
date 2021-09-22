@@ -106,3 +106,4 @@ venv.bak/
 # Local user files
 .DS_Store
 .idea/
+~$ccpa-metrics.xlsx
