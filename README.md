@@ -15,7 +15,7 @@
 
 ## View Metrics and Visualizations
 
-This repo contains CCPA metrics and visualizations. All data is contained in the csv file, which is visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
+This repo contains data for CCPA metrics and visualizations. The data is available in the websites folder and entered into a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
 
 ## Contribution
 
