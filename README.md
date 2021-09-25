@@ -13,10 +13,29 @@
 
 **Note**: Under development.
 
-## View Metrics and Visualizations
+## 1. CCPA Metrics Requirement
 
-This repo contains data for CCPA metrics and visualizations. The data is available in the websites folder and entered into a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
+[California Code of Regulations §999.317(g)](https://govt.westlaw.com/calregs/Document/I2BD4B7BE1E6C4B27982C6D4903DFF889?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)) requires the following:
 
-## Contribution
+```text
+A business that knows or reasonably should know that it, alone or in combination, buys, receives for the business's commercial purposes, sells, or shares for commercial purposes the personal information of 10,000,000 or more consumers in a calendar year shall:
+
+(1) Compile the following metrics for the previous calendar year:
+
+    a. The number of requests to know that the business received, complied with in whole or in part, and denied;
+    b. The number of requests to delete that the business received, complied with in whole or in part, and denied;
+    c. The number of requests to opt-out that the business received, complied with in whole or in part, and denied; and
+    d. The median or mean number of days within which the business substantively responded to requests to know, requests to delete, and requests to opt-out.
+
+(2) Disclose, by July 1 of every calendar year, the information compiled in subsection (g)(1) within their privacy policy or posted on their website and accessible from a link included in their privacy policy.
+
+    a. In its disclosure pursuant to subsection (g)(2), a business may choose to disclose the number of requests that it denied in whole or in part because the request was not verifiable, was not made by a consumer, called for information exempt from disclosure, or was denied on other grounds.
+```
+
+## 2. View Metrics and Visualizations
+
+This repo contains data on business' disclosures per §999.317(g). The data is entered and visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
+
+## 3. Contribution
 
 Contribute by opening an issue or a pull request.
