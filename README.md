@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0"><img src="https://github.com/privacy-tech-lab/ccpa-metrics/blob/main/metrics_screen.png" width="364px" height="187px" title="screenshot of CCPA metrics in Google Sheets"></a>
   <br>
-  View Metrics on Google Sheets
+  <a href="src=https://github.com/privacy-tech-lab/ccpa-metrics/blob/main/metrics_screen.png">View Metrics on Google Sheets</a>
 <p>
 
 # California Consumer Privacy Act (CCPA) Metrics
