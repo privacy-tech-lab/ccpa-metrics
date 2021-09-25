@@ -9,9 +9,11 @@
   <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/privacy-tech-lab/gpc-ccpa-metrics?style=social"></a>
 </p>
 
+<br>
 <p align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0"><img src="https://github.com/privacy-tech-lab/ccpa-metrics/blob/main/metrics_screen.png" width="552px" height="284px" title="screenshot of CCPA metrics in Google Sheets"></a>
+  <a href="https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0"><img src="https://github.com/privacy-tech-lab/ccpa-metrics/blob/main/metrics_screen.png" width="364px" height="187px" title="screenshot of CCPA metrics in Google Sheets"></a>
 <p>
+<br>
 
 # California Consumer Privacy Act (CCPA) Metrics
 
