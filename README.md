@@ -9,13 +9,11 @@
   <a href="https://github.com/privacy-tech-lab/gpc-ccpa-metrics/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/privacy-tech-lab/gpc-ccpa-metrics?style=social"></a>
 </p>
 
-# GPC CCPA Metrics and Visualizations
-
-**Note**: Under development.
+# California Consumer Privacy Act (CCPA) Metrics and Visualizations
 
 ## 1. CCPA Metrics Requirement
 
-[California Code of Regulations §999.317(g)](https://govt.westlaw.com/calregs/Document/I2BD4B7BE1E6C4B27982C6D4903DFF889?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)) requires the following:
+California Code of Regulations [§999.317(g)](https://govt.westlaw.com/calregs/Document/I2BD4B7BE1E6C4B27982C6D4903DFF889?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)) requires the following:
 
 ```text
 A business that knows or reasonably should know that it, alone or in combination, buys, receives for the business's commercial purposes, sells, or shares for commercial purposes the personal information of 10,000,000 or more consumers in a calendar year shall:
@@ -34,8 +32,12 @@ A business that knows or reasonably should know that it, alone or in combination
 
 ## 2. View Metrics and Visualizations
 
-This repo contains data on business' disclosures per §999.317(g). The data is entered and visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
+This repo contains [data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/main/data/2020) on business' disclosures per §999.317(g). The data is entered and visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
 
 ## 3. Contribution
 
-Contribute by opening an issue or a pull request.
+Contribute by opening an issue or a pull request. Contact: sebastian[at]privacytechlab.org
+
+<p align="center">
+  <a href="https://www.privacytechlab.org/"><img src="https://github.com/privacy-tech-lab/privacyflash-pro/blob/main/plt_logo.png" width="200px" height="200px" title="privacy-tech-lab logo"></a>
+<p>
