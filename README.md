@@ -38,7 +38,7 @@ California Code of Regulations [§999.317](https://govt.westlaw.com/calregs/Docu
 (h) A business may choose to compile and disclose the information required by subsection (g)(1) for requests received from all individuals, rather than requests received from consumers. The business shall state whether it has done so in its disclosure and shall, upon request, compile and provide to the Attorney General the information required by subsection (g)(1) for requests received from consumers.
 ```
 
-## 2. View Metrics and Visualizations
+## 2. View Metrics and Charts
 
 This repo contains [data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/main/data/2020) on business' disclosures per §999.317(g). The data is entered and visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
 
