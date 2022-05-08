@@ -46,9 +46,7 @@ This repo contains [data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/
 
 Contribute by opening an issue or a pull request. Contact: sebastian[at]privacytechlab.org
 
-<p align="center">
-  <a href="https://www.privacytechlab.org/"><img src="./plt_logo.png" width="200px" height="200px" alt="privacy-tech-lab logo"></a>
-<p>
+## 4. Thank You!
 
 <p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
 
@@ -64,7 +62,7 @@ Contribute by opening an issue or a pull request. Contact: sebastian[at]privacyt
 
 <p align="center">
   <a href="https://sloan.org/grant-detail/9631">
-    <img class="img-fluid" src="./sloan_logo.png" height="70px" alt="Sloan Foundation Logo">
+    <img class="img-fluid" src="./sloan_logo.jpg" height="70px" alt="Sloan Foundation Logo">
   </a>
   <a href="https://www.wesleyan.edu/mathcs/cs/index.html">
     <img class="img-fluid" src="./wesleyan_shield.png" height="70px" alt="Wesleyan University Logo">
@@ -72,3 +70,9 @@ Contribute by opening an issue or a pull request. Contact: sebastian[at]privacyt
 </p>
 
 <p align="center">Conclusions reached or positions taken are our own and not necessarily those of our financial supporters, its trustees, officers, or staff.</p>
+
+##
+
+<p align="center">
+  <a href="https://www.privacytechlab.org/"><img src="./plt_logo.png" width="200px" height="200px" alt="privacy-tech-lab logo"></a>
+<p>
