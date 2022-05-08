@@ -19,7 +19,7 @@
 
 ## 1. CCPA Metrics Requirement
 
-California Code of Regulations [§999.317](https://govt.westlaw.com/calregs/Document/I2BD4B7BE1E6C4B27982C6D4903DFF889?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)) requires the following:
+California Code of Regulations [§999.317](<https://govt.westlaw.com/calregs/Document/I2BD4B7BE1E6C4B27982C6D4903DFF889?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)>) requires the following:
 
 ```text
 (g) A business that knows or reasonably should know that it, alone or in combination, buys, receives for the business's commercial purposes, sells, or shares for commercial purposes the personal information of 10,000,000 or more consumers in a calendar year shall:
@@ -47,5 +47,28 @@ This repo contains [data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/
 Contribute by opening an issue or a pull request. Contact: sebastian[at]privacytechlab.org
 
 <p align="center">
-  <a href="https://www.privacytechlab.org/"><img src="https://github.com/privacy-tech-lab/privacyflash-pro/blob/main/plt_logo.png" width="200px" height="200px" title="privacy-tech-lab logo"></a>
+  <a href="https://www.privacytechlab.org/"><img src="./plt_logo.png" width="200px" height="200px" alt="privacy-tech-lab logo"></a>
 <p>
+
+<p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
+
+<p align="center">Major financial support provided by the National Science Foundation.</p>
+
+<p align="center">
+  <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2055196">
+    <img class="img-fluid" src="./nsf.png" height="100px" alt="National Science Foundation Logo">
+  </a>
+</p>
+
+<p align="center">Additional financial support provided by the Alfred P. Sloan Foundation and Wesleyan University.</p>
+
+<p align="center">
+  <a href="https://sloan.org/grant-detail/9631">
+    <img class="img-fluid" src="./sloan_logo.png" height="70px" alt="Sloan Foundation Logo">
+  </a>
+  <a href="https://www.wesleyan.edu/mathcs/cs/index.html">
+    <img class="img-fluid" src="./wesleyan_shield.png" height="70px" alt="Wesleyan University Logo">
+  </a>
+</p>
+
+<p align="center">Conclusions reached or positions taken are our own and not necessarily those of our financial supporters, its trustees, officers, or staff.</p>
