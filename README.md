@@ -58,7 +58,7 @@ Contribute by opening an issue or a pull request. Contact: sebastian[at]privacyt
   </a>
 </p>
 
-<p align="center">Additional financial support provided by the Alfred P. Sloan Foundation and Wesleyan University.</p>
+<p align="center">Additional financial support provided by the Anil Fernando Endowment, the Alfred P. Sloan Foundation, and Wesleyan University.</p>
 
 <p align="center">
   <a href="https://sloan.org/grant-detail/9631">
