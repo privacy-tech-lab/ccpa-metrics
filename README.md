@@ -42,6 +42,8 @@ California Code of Regulations [§999.317](<https://govt.westlaw.com/calregs/Doc
 
 This repo contains [data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/main/data/2020) on business' disclosures per §999.317(g). The data is entered and visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
 
+@coreystone provided an [update](https://github.com/privacy-tech-lab/ccpa-metrics/issues/2) to the data in March 2023.
+
 ## 3. Contribution
 
 Contribute by opening an issue or a pull request. Contact: sebastian[at]privacytechlab.org
