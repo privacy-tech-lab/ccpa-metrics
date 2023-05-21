@@ -17,6 +17,11 @@
 
 # California Consumer Privacy Act (CCPA) Metrics
 
+[1. CCPA Metrics Requirement](#1-ccpa-metrics-requirement)  
+[2. View Metrics and Charts](#2-view-metrics-and-charts)  
+[3. Contribution](#3-contribution)  
+[4. Thank You!](#4-thank-you)
+
 ## 1. CCPA Metrics Requirement
 
 California Code of Regulations [§999.317](<https://govt.westlaw.com/calregs/Document/I2BD4B7BE1E6C4B27982C6D4903DFF889?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)>) requires the following:
@@ -60,7 +65,7 @@ Contribute by opening an issue or a pull request. Contact: sebastian[at]privacyt
   </a>
 </p>
 
-<p align="center">Additional financial support provided by the Anil Fernando Endowment, the Alfred P. Sloan Foundation, and Wesleyan University.</p>
+<p align="center">Additional financial support provided by the Alfred P. Sloan Foundation, Wesleyan University, and the Anil Fernando Endowment.</p>
 
 <p align="center">
   <a href="https://sloan.org/grant-detail/9631">
