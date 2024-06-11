@@ -48,11 +48,12 @@ California Code of Regulations [§999.317](<https://govt.westlaw.com/calregs/Doc
 
 This repo contains [data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/main/data/2020) on business' disclosures per §999.317(g). The data is entered and visualized in a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzyTpjWgAoR36oYVhSoX9Qzynj1uV61tvV6Tt5B5P7I/edit#gid=0).
 
-@coreystone provided an [update](https://github.com/privacy-tech-lab/ccpa-metrics/issues/2) to the data in March 2023.
-
 ## 3. Contribution
 
 Contribute by opening an issue or a pull request. Contact: sebastian[at]privacytechlab.org
+
+- June 7 2024: @ecorren provided [2021 data](https://github.com/privacy-tech-lab/ccpa-metrics/tree/main/data/2021). Her paper is available on SSRN: [An Empirical Study on the Real Use of Data Control Rights and Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4793249), 109 IOWA L. REV.
+- March 8, 2023: @coreystone provided an [update](https://github.com/privacy-tech-lab/ccpa-metrics/issues/2).
 
 ## 4. Thank You!
 
