@@ -57,7 +57,7 @@ Contribute by opening an issue or a pull request. Contact: sebastian[at]privacyt
 
 ## 4. Thank You!
 
-<p align="center"><strong>We would like to thank our financial supporters!</strong></p><br>
+<p align="center"><strong>We would like to thank our supporters!</strong></p><br>
 
 <p align="center">Major financial support provided by the National Science Foundation.</p>
 
